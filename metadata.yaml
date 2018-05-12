@@ -1,0 +1,25 @@
+_repo: The-Twelve-Magic-Changelings_23527
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glen, M. A.
+    gutenberg_agent_id: '25896'
+    url: http://www.gutenberg.org/2009/agents/25896
+description: ''
+gutenberg_issued: '2007-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children'
+- !lcsh 'Paper dolls'
+- !lcc 'PZ'
+title: The Twelve Magic Changelings
+url: http://www.gutenberg.org/ebooks/23527
